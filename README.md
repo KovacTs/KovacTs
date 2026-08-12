@@ -55,7 +55,7 @@ Estudiante en quinto año apasionado por la **creación de soluciones digitales 
   </a>
 </p>
 
-### 📊 Desglose de Competencias (Basado en CV)
+### 📊 Desglose de Competencias
 
 <table>
   <tr>
