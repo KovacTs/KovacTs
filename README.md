@@ -169,7 +169,7 @@ Estudiante en quinto año apasionado por la **creación de soluciones digitales 
     <img src="https://img.shields.io/badge/Email-fernando.llancao%40mail.udp.cl-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/](https://www.linkedin.com/in/fernando-llancao-3aa003280/">
     <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Llancao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   &nbsp;&nbsp;
@@ -179,7 +179,3 @@ Estudiante en quinto año apasionado por la **creación de soluciones digitales 
 </div>
 
 <br/>
-
-<div align="center">
-  <sub>Diseñado con 💚 para el perfil de GitHub de <b>Fernando Llancao Loncomil</b>.</sub>
-</div>
